@@ -15,7 +15,7 @@
                     {{ end }}
                 </h1>
               </a>
-                <aside class="text-muted">{{ .Date.Format "Jan 2" }}</aside>
+                <aside class="text-muted">{{ .Date.Format "Jan 2" }} | By {{ $author := index .Site.Params.Author .Params.author }} {{ $author.fullname }}</aside>
 
         {{ end }}
     {{ end }}

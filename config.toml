@@ -9,3 +9,12 @@ theme= "cactus"
 [social]
   twitter = "https://twitter.com/uicardio"
   instagram = "https://instagram.com/uicardio"
+
+[params.author.arvind]
+  fullName = "Arvind Singh"
+  email = "heyarviind@gmail.com"
+  website = "https://heyarviind.com"
+
+[params.author.haman]
+  fullName = "Haman Mahal"
+  email = "hamanmahal001@gmail.com"
