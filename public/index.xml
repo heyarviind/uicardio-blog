@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>http://uicard.io/blog/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 18 Feb 2018 23:05:28 +0530</lastBuildDate>
+    
+	<atom:link href="http://uicard.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>This Is a Cool Post</title>
+      <link>http://uicard.io/blog/this-is-a-cool-post/</link>
+      <pubDate>Sun, 18 Feb 2018 23:05:28 +0530</pubDate>
+      
+      <guid>http://uicard.io/blog/this-is-a-cool-post/</guid>
+      <description>is this post working now?</description>
+    </item>
+    
+    <item>
+      <title>Is that a cooking show?</title>
+      <link>http://uicard.io/blog/posts/this-is-a-cool-post/</link>
+      <pubDate>Wed, 30 Aug 2017 18:34:02 +0000</pubDate>
+      
+      <guid>http://uicard.io/blog/posts/this-is-a-cool-post/</guid>
+      <description>bsdohdbuwhbduj</description>
+    </item>
+    
+  </channel>
+</rss>

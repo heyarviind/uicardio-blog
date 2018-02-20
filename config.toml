@@ -1,0 +1,11 @@
+baseURL= "http://uicard.io/blog/"
+languageCode="en-us"
+title = "UICardio Blog"
+theme= "cactus"
+
+[params]
+  mainURL = "https://uicard.io/"
+
+[social]
+  twitter = "https://twitter.com/uicardio"
+  instagram = "https://instagram.com/uicardio"
