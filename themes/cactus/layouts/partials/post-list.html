@@ -4,18 +4,18 @@
         {{ if ne $url "about/" }}
 
               <a href='{{ .Permalink }}'>
-                <h1>
-                    {{ .Title }}
+                <h1>{{ .Title }}</h1></a>
+                <aside class="text-muted mb-3">{{ .Date.Format "Jan 2" }} | By {{ $author := index .Site.Params.Author .Params.author }} {{ $author.fullname }}</aside>
                     {{ if .Site.Params.enableSummary }}
                         {{ if .Site.Params.useDescriptionReplaceSummary }}
-                            <h2>{{ .Description | plainify }}</h2>
+                            <p>{{ .Description | plainify }}</p>
                         {{ else }}
-                            <h2>{{ .Summary | plainify }}</h2>
+                            <p>{{ .Summary | plainify }}</p>
                         {{ end }}
                     {{ end }}
-                </h1>
-              </a>
-                <aside class="text-muted">{{ .Date.Format "Jan 2" }} | By {{ $author := index .Site.Params.Author .Params.author }} {{ $author.fullname }}</aside>
+
+
+
 
         {{ end }}
     {{ end }}

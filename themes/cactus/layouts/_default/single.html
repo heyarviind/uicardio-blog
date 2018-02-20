@@ -11,7 +11,7 @@
                         {{ .Title }}
                     </h1>
                     <span class="text-muted">
-                    {{ .Date.Format "Jan 2, 2006" }}
+                    {{ .Date.Format "Jan 2, 2006" }} | By {{ $author := index .Site.Params.Author .Params.author }} {{ $author.fullname }}
                     <!-- · {{ if lt 1 .WordCount }}{{ .WordCount }} words{{ else }}{{ .WordCount }} word{{ end }}
                     · {{ .ReadingTime }} minute read -->
                       <div class="tags">
