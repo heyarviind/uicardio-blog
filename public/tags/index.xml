@@ -1,24 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on My New Hugo Site</title>
+    <title>Tags on UICardio Blog</title>
     <link>http://uicard.io/blog/tags/</link>
-    <description>Recent content in Tags on My New Hugo Site</description>
+    <description>Recent content in Tags on UICardio Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 30 Aug 2017 18:34:02 +0000</lastBuildDate>
     
 	<atom:link href="http://uicard.io/blog/tags/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Futurama</title>
-      <link>http://uicard.io/blog/tags/futurama/</link>
-      <pubDate>Wed, 30 Aug 2017 18:34:02 +0000</pubDate>
-      
-      <guid>http://uicard.io/blog/tags/futurama/</guid>
-      <description></description>
-    </item>
     
   </channel>
 </rss>

@@ -3,13 +3,8 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://uicard.io/blog/this-is-a-cool-post/</loc>
-    <lastmod>2018-02-18T23:05:28+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://uicard.io/blog/posts/this-is-a-cool-post/</loc>
-    <lastmod>2017-08-30T18:34:02+00:00</lastmod>
+    <loc>http://uicard.io/blog/introduction-to-uicardio/</loc>
+    <lastmod>2018-03-17T23:05:28+05:30</lastmod>
   </url>
   
   <url>
@@ -18,26 +13,13 @@
   </url>
   
   <url>
-    <loc>http://uicard.io/blog/tags/futurama/</loc>
-    <lastmod>2017-08-30T18:34:02+00:00</lastmod>
+    <loc>http://uicard.io/blog/tags/</loc>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://uicard.io/blog/</loc>
-    <lastmod>2018-02-18T23:05:28+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://uicard.io/blog/posts/</loc>
-    <lastmod>2017-08-30T18:34:02+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://uicard.io/blog/tags/</loc>
-    <lastmod>2017-08-30T18:34:02+00:00</lastmod>
+    <lastmod>2018-03-17T23:05:28+05:30</lastmod>
     <priority>0</priority>
   </url>
   
