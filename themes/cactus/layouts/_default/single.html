@@ -2,16 +2,15 @@
     <body>
       <div class="container">
 
-
        {{ partial "nav.html" . }}
         <section>
-            <article class="text-center">
+            <article>
                 <header>
                     <h1>
                         {{ .Title }}
                     </h1>
-                    <span class="text-muted">
-                    {{ .Date.Format "Jan 2, 2006" }} | By {{ $author := index .Site.Params.Author .Params.author }} {{ $author.fullname }}
+                    <span class="text-secondary">
+                        <div class="text-secondary mb-3">By {{ $author := index .Site.Params.Author .Params.author }} {{ $author.fullname }} on {{ .Date.Format "2 January, 2006" }}</div>
                     <!-- · {{ if lt 1 .WordCount }}{{ .WordCount }} words{{ else }}{{ .WordCount }} word{{ end }}
                     · {{ .ReadingTime }} minute read -->
                       <div class="tags">
@@ -21,10 +20,14 @@
                               <a href="{{ $.Site.BaseURL }}tags/{{ . | urlize }}">{{ . }}</a>
                           {{ end }}
                       {{ end }}
-                      {{ end}}
+                      {{ end }}
                     </div>
                     </span>
                 </header>
+                {{ if isset .Params "featured_image" }}
+                    <img class="w-100" src="{{ .Site.BaseURL }}/images/{{ index .Params "featured_image" }}" alt="">
+                {{end}}
+                
                 {{ if .Site.Params.enableToc }}
                   {{ if .TableOfContents }}
                     <div id="toc">
@@ -32,7 +35,7 @@
                     </div>
                   {{ end }}
                 {{ end }}
-                <section class="mt-5">
+                <section>
                     {{ .Content }}
                 </section>
             </article>

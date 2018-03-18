@@ -1,8 +1,8 @@
-<footer id="footer" class="text-center">
+<footer id="footer" class="text-center mt-5">
     {{ if .Site.Social }}
         {{ partial "social.html" . }}
     {{ end }}
-    <p class="small text-muted">
+    <p class="text-muted">
     {{ with .Site.Params.copyright }}
         {{ . | markdownify }}
     {{ else }}

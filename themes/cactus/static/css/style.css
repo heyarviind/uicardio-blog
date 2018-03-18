@@ -1,22 +1,92 @@
-.post{
+@import url('https://fonts.googleapis.com/css?family=Lato|Roboto:400,700');
+
+body{
+  font-family: 'Roboto', sans-serif;
+}
+
+a{
+  transition: color .1s;
+  color: #358dca;
+  text-decoration: none;
+}
+
+nav{
+  margin-bottom: 40px;
+}
+
+h1, h2, h3, h4, h5, h6{
+  font-family: 'Lato', sans-serif;
+    font-weight: 700;
+    color: rgba(0,0,0,0.7);
+}
+
+.post,article{
   width: 100%;
   max-width: 700px;
   margin: 0 auto;
 }
+
+  .post .post-row{
+    margin-bottom: 40px;
+  }
+  .post h1 a,article h1{
+    text-decoration: none;
+    color: rgba(0,0,0,0.7);
+    font-family: 'Lato', sans-serif;
+    font-weight: 700;
+  }
+
+  .post h1 a:hover{
+    color: rgba(0,0,0,0.5);
+  }
+
+  .post p, article p{
+    font-size: 18px;
+    margin-top: 20px;
+    /* color: rgba(0,0,0,0.6); */
+  }
+
 .symbol{
   font-size : 40px;
 }
 article{
-  max-width: 700px;
+  
   width: 100%;
   margin: 0 auto;
 }
   article img{
     width : 100%;
   }
+
+#social a{
+  color: rgba(0,0,0,0.5);
+  text-decoration: none;
+  
+}
+
+  #social a:hover{
+    color: rgba(0,0,0,1);
+    text-decoration: none;
+  }
+
+q{
+  display: block;
+  text-align: center;
+  font-size: 28px;
+  margin: 40px 0;
+}
+
+blockquote{
+  padding: 10px 20px;
+  margin: 0 0 20px;
+  font-size: 17.5px;
+  border-left: 5px solid #eee;
+  color: #777;
+}
 /* Extra small devices (phones, up to 480px) */
 @media screen and (max-width: 767px) {
-  h1 { font-size: 5.9vw; }
+  h1 { font-size: 8vw; }
+  h2 { font-size: 6vw; }
 }
 /* Small devices (tablets, 768px and up) */
 @media (min-width: 768px) and (max-width: 991px) {
