@@ -26,7 +26,7 @@ With the booming industry of web development, the need of pre-help has also incr
 <p>Website development is a hectic work. There are different types of websites. These websites
   represent information or business. The baby step towards this job is to finalize the design of
   the website. Selecting a design is the first step. With our assistance and as a result of our
-  efforts, you (as users) will have the maximum options on this steps.</p>
+  efforts, you (as users) will have the maximum options on this step.</p>
 
 <h2>Our vision</h2>
 
@@ -49,7 +49,7 @@ With the booming industry of web development, the need of pre-help has also incr
   be in demand. Here, we give the developer community with such designs in the form of free
   and premium products. Along with templates, themes and UI kits we will also come up with
   other beautiful components. The developed components like a <a target="_blank" href="https://uicard.io/products/jquery-card-wizard">jQuery Card Wizard</a> are on our product
-  list. One card wizard already exists, but there are more components to come.</p>
+  list. One Card Wizard already exists, but there are more components to come.</p>
 
 <h2>Components and Documentation</h2>
 
