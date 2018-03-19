@@ -60,6 +60,6 @@ Also, we come with a 24 hours’ assistance. All the users connected to us by an
 
 
 
-<h3>Conclusion to UICard.io</h3>
+<h3>Conclusion</h3>
 
 [Uicard.io](https://uicard.io/) is a website that provides the developer community with sleek, modern and beautiful _bootstrap templates, themes, UI kits_ and customizable components. We come with an idea to contribute our work to the developer community. 
