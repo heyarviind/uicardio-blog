@@ -37,6 +37,9 @@
 		{{ if isset .Params "twitter" }}
 		<meta name="twitter:creator" content="@{{ .Params.twitter }}">
 		{{ end }}
+		{{ if isset .Params "description" }}
+		<meta property="og:description" content="{{ .Params.description }}" />
+		{{ end }}
 		<meta property="og:type" content="blog" />
 		<meta property="og:title" content="{{ if .IsHome }}{{ .Title }}{{ else }}{{ .Title }} &middot; {{ .Site.Title }}{{ end }}" />
 		{{ if isset .Params "featured_image" }}

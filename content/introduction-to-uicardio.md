@@ -2,8 +2,9 @@
 title: "Introduction to UICardio"
 date: 2018-03-17T23:05:28+05:30
 draft: false
-featured_image : "uicardio-introduction.png"
+featured_image : "uicardio-introduction.jpg"
 author : "haman"
+description : "Hello World! Lets gets introduced to UICardio and know why building bootstrap themes, templates and UI kits is important"
 twitter : "uicardio"
 ---
 <h1>Why building bootstrap themes, templates and UI kits is important?</h1>
