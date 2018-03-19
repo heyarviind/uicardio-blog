@@ -7,12 +7,13 @@ author : "haman"
 description : "Hello World! Lets get introduced to UICardio and know why building bootstrap themes, templates and UI kits is important"
 twitter : "uicardio"
 ---
-<h1>Why building bootstrap themes, templates and UI kits is important?</h1>
+<h2>Why building bootstrap themes, templates and UI kits is important?</h1>
 
-<p>Website development is a hectic work. There are different types of websites. These websites
-  represent information or business. The baby step towards this job is to finalize the design of
-  the website. Selecting a design is the first step. With our assistance and as a result of our
-  efforts, you (as users) will have the maximum options on this step.</p>
+<p>Why UICard.io? With the booming industry of web development, the need of pre-help has also increased. In this time of growing internet services, the need of websites for almost every small or big work is also increasing. In these past 10 years, this business has increased to a large extent. Therefore, developers are opting to quit their office jobs and prefer to work from home. There are various kinds of help already available from different sources. Focusing on bootstrap templates, themes, and UI kits, there are various websites that provide the service.</p>
+
+<h3>But, are they enough?</h2>
+
+<p>Certainly not. An early help of design in the form of templates and themes can never be enough in these times.</p>
 
 <h2>Need</h2>
 
