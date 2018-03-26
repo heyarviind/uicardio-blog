@@ -14,9 +14,9 @@
 
                 {{ if .Site.Params.enableSummary }}
                     {{ if .Site.Params.useDescriptionReplaceSummary }}
-                        <p class="text-secondary">{{ .Description | plainify }}</p>
+                        <p class="text-secondary">{{ .Description | plainify }} <a href='{{ .Permalink }}'>Read More</a></p>
                     {{ else }}
-                        <p class="text-secondary">{{ .Summary | plainify }}</p>
+                        <p class="text-secondary">{{ .Summary | plainify }} <a href='{{ .Permalink }}'>Read More</a></p>
                     {{ end }}
                 {{ end }}
 

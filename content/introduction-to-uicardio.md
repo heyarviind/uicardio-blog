@@ -2,24 +2,19 @@
 title: "Introduction to UICardio"
 date: 2018-03-17T23:05:28+05:30
 draft: false
-featured_image : "uicardio-introduction.png"
+featured_image : "uicardio-introduction.jpg"
 author : "haman"
+description : "Hello World! Lets get introduced to UICardio and know why building bootstrap themes, templates and UI kits is important"
 twitter : "uicardio"
 ---
+<h2>Why building bootstrap themes, templates and UI kits is important?</h1>
 
+<p>Why UICard.io? With the booming industry of web development, the need of pre-help has also increased. In this time of growing internet services, the need of websites for almost every small or big work is also increasing. In these past 10 years, this business has increased to a large extent. Therefore, developers are opting to quit their office jobs and prefer to work from home. There are various kinds of help already available from different sources. Focusing on bootstrap templates, themes, and UI kits, there are various websites that provide the service.</p>
 
+<h3>But, are they enough?</h2>
 
+<p>Certainly not. An early help of design in the form of templates and themes can never be enough in these times.</p>
 
-<h1>Why building bootstrap themes, templates and UI kits is important?</h1>
-
-
-Why [UICard.io](https://uicard.io/)? With the booming industry of web development, the need of pre-help has also increased. In this time of growing internet services, the need of websites for almost every small or big work is also increasing. In these past 10 years, this business has increased to a large extent. Therefore, developers are opting to quit their office jobs and prefer to work from home. There are various kinds of help already available from different sources. Focusing on _bootstrap templates, themes, and UI kits_, there are various websites that provide the service.
-
-<h3>But, are they enough?</h3>
-
-Certainly not. An early help of design in the form of templates and themes can never be enough in these times.
-<br>
-<br>
 
 <h2>Need</h2>
 
@@ -37,15 +32,18 @@ We decided to base all our work on three simple monosyllables.
 
 <blockquote>Modern, easy and effective</blockquote>
 
-Our website, [products](https://uicard.io/products), services, blog and interaction with customers comes under this. Our every product holds tight to these principles and will continue to hold them in the future.
-<br>
-<br>
+Our website, [products](https://uicard.io/products), services, [blog](https://uicard.io/blog) and interaction with customers comes under this. Our every product holds tight to these principles and will continue to hold them in the future.
+
 
 <h2>Free and premium products</h2>
 
-Our [_templates, UI kits, and templates_](https://uicard.io/products) are sleek modern and lovable. Bulky websites are unwanted. With the growing need for user-friendly designs, simple and effective looks will be in demand. Here, we give the developer community with such designs in the form of free and premium products. Along with _templates, themes and UI kits_ we will also come up with other beautiful components. The developed components like [card wizard](https://uicard.io/products/jquery-card-wizard) are on our product list. One card wizard already exists, but there are more components to come.
-<br>
-<br>
+<p>Our templates, UI kits, and templates are sleek modern and lovable. Bulky websites are
+  unwanted. With the growing need for user-friendly designs, simple and effective looks will
+  be in demand. Here, we give the developer community with such designs in the form of free
+  and premium products. Along with templates, themes and UI kits we will also come up with
+  other beautiful components. The developed components like a <a target="_blank" href="https://uicard.io/products/jquery-card-wizard">jQuery Card Wizard</a> are on our product
+  list. One Card Wizard already exists, but there are more components to come.</p>
+
 
 <h2>Components and documentation</h2>
 
@@ -58,14 +56,13 @@ All the [products](https://uicard.io/products) will have various components whic
 <h2>Name and logo</h2>
 
 The name [UICard.io](https://uicard.io/) comes from user interface (means by which user and computer interact).
-![the you](/blog/images/avatar.png)
+![the you](/blog/images/full-logo.png)
 
 Our logo ‘you’ represents [uicard.io](https://uicard.io/) moving further for the active participation in the software community. It also represents the first letter of the name.
 
-Also, we come with a 24 hours’ assistance. All the users connected to us by any sought are welcome to contact us through our email contact@uicard.io 
-<br>
-<br>
+Also, we come with a 24 hours’ assistance. All the users connected to us by any sought are welcome to contact us through our email [contact@uicard.io](mailto:contact@uicard.io)
 
-<h3>Conclusion to UICard.io</h3>
+
+<h3>Conclusion</h3>
 
 [Uicard.io](https://uicard.io/) is a website that provides the developer community with sleek, modern and beautiful _bootstrap templates, themes, UI kits_ and customizable components. We come with an idea to contribute our work to the developer community. 

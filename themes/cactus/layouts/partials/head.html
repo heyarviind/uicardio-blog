@@ -30,4 +30,20 @@
 		{{ range .Site.Params.customCSS }}
 		<link rel="stylesheet" href="{{ $.Site.BaseURL }}{{ . }}">
 		{{ end }}
+
+
+		<!-- Managing Cards -->
+
+		{{ if isset .Params "twitter" }}
+		<meta name="twitter:creator" content="@{{ .Params.twitter }}">
+		{{ end }}
+		{{ if isset .Params "description" }}
+		<meta property="og:description" content="{{ .Params.description }}" />
+		{{ end }}
+		<meta property="og:type" content="blog" />
+		<meta property="og:title" content="{{ if .IsHome }}{{ .Title }}{{ else }}{{ .Title }} &middot; {{ .Site.Title }}{{ end }}" />
+		{{ if isset .Params "featured_image" }}
+		<meta property="og:image" content="{{ .Site.Params.mainURL }}blog/images/{{ .Params.featured_image }}" />
+		<meta name="twitter:image" content="{{ .Site.Params.mainURL }}blog/images/{{ .Params.featured_image }}">
+		{{ end }}
 	</head>
