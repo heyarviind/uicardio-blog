@@ -15,10 +15,13 @@ twitter : "uicardio"
 
 <p>Certainly not. An early help of design in the form of templates and themes can never be enough in these times.</p>
 
+
 <h2>Need</h2>
 
 Website development is a hectic work. There are different types of websites. These websites represent information or business. The baby step towards this job is to finalize the design of the website. Selecting a design is the first step. With our assistance and as a result of our efforts, you (as users) will have the maximum options on this step.
- 
+ <br>
+<br>
+
 <h2>Our vision</h2>
 
 At the time of establishment of our website, we set the fundamentals of our work on one single vision.
@@ -47,7 +50,8 @@ Our website, [products](https://uicard.io/products), services, [blog](https://ui
 ![Example image](/blog/images/components-documentation.jpg)
 
 All the [products](https://uicard.io/products) will have various components which will be clearly defined in code. Also, for a better understanding of products all the templates, themes and especially UI kits will come with proper documentation. We believe that documentation decreases the difficulty faced by customers to the maximum extent.
-
+<br>
+<br>
 
 <h2>Name and logo</h2>
 
@@ -57,7 +61,6 @@ The name [UICard.io](https://uicard.io/) comes from user interface (means by whi
 Our logo ‘you’ represents [uicard.io](https://uicard.io/) moving further for the active participation in the software community. It also represents the first letter of the name.
 
 Also, we come with a 24 hours’ assistance. All the users connected to us by any sought are welcome to contact us through our email [contact@uicard.io](mailto:contact@uicard.io)
-
 
 
 <h3>Conclusion</h3>
