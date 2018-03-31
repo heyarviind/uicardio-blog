@@ -1,6 +1,6 @@
 ---
 title: "Stephen Hawking, the Perennial Legend"
-date: 2018-03-26T19:35:44+05:30
+date: 2018-03-31T19:35:44+05:30
 draft: false
 featured_image : "Stephen_hawking.jpg"
 author: "haman"
