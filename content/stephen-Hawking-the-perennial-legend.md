@@ -51,7 +51,7 @@ And well, we all know how that turned out later.</p>
 
 <h3> 2.	Lazy lad</h3>
 
-![Example image](/blog/images/stephen7.jpg)
+<a href="stephen7.jpg" alt="as a child"></a>
 <p>In his documentary, Stephen confesses that he was not very attentive to the concept of ‘making and saving money’. During his stay at Oxford, he made only a thousand dollars in three years, which is a work of average one hour a day. Definitely, he was not very proud of that but he spent most of the time partying. He was witty, popular and a member of college boat club.
 <br>
 Basically, he was the male ‘it girl’ of Oxford at those times and maintained that place the whole time.</p>
@@ -73,7 +73,7 @@ Even though he gradually became aware of his changing health conditions, he mana
 
    big bang theory         |      steady state
 :-------------------------:|:-------------------------:
-![](/blog/images/steady.jpeg)  |  ![](/blog/images/big.jpeg)
+![big bang](/blog/images/steady.jpeg)  |  ![steady state](/blog/images/big.jpeg)
 
 <p>In those times two theories ruled the world. The first one was <a href="https://en.wikipedia.org/wiki/Steady_State_theory" alt="theory 1">steady state theory</a>. It said that universe always existed and would exist forever. This theory was simple and comforting. <br></p>
 
