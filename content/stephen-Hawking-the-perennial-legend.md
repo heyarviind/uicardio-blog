@@ -24,7 +24,7 @@ Known for his various concepts and discoveries like origin of the universe, time
 
    Stephen Hawkings        |  With parents
 :-------------------------:|:-------------------------:
-![](/blog/images/child.jpg)  |  ![](/blog/images/young-stephen-hawking-1.jpg)
+![image](/blog/images/child.jpg)  |  ![image 2](/blog/images/young-stephen-hawking-1.jpg)
  In his [self-made documentary](https://www.youtube.com/watch?v=7NN2vsNgbZs
 ), Stephen says,
 
@@ -36,13 +36,13 @@ Known for his various concepts and discoveries like origin of the universe, time
 <h2>Times at Oxford</h2>
 
 <p>Born exactly after 300 years’ death anniversary of 
-	<a href="https://en.wikipedia.org/wiki/Galileo_Galilei">Galileo</a>, Stephen Hawking was a brilliant mind. He was a very humorous man since childhood till his death days. 
+	<a href="https://en.wikipedia.org/wiki/Galileo_Galilei" alt="scientist">Galileo</a>, Stephen Hawking was a brilliant mind. He was a very humorous man since childhood till his death days. 
 When asked about eureka moment of scientific discovery he says,</p>
 
 <blockquote>“I wouldn’t compare it to sex, but it lasts longer”</blockquote>
 
 <p>After completing his schooling, he started his college at
-<a href="http://www.ox.ac.uk/" >Oxford</a>. He wanted to continue his education in mathematics but due to its unavailability, he opted for physics.
+<a href="http://www.ox.ac.uk/" alt="college 1" >Oxford</a>. He wanted to continue his education in mathematics but due to its unavailability, he opted for physics.
 And well, we all know how that turned out later.</p>
 
 <h3> 1.	Academics</h3>
@@ -65,7 +65,7 @@ Even though he gradually became aware of his changing health conditions, he mana
 
 <h2>Cambridge college</h2>
  
-<p>After Oxford consummated, it was time for <a href="https://www.cam.ac.uk/">Cambridge</a>. In the year 1962, Stephen Hawking started his Ph.D. at Cambridge college. He was at the spire of his young age and committed to working. It was an exciting time for astrology, astronomy, and cosmology.</p>
+<p>After Oxford consummated, it was time for <a href="https://www.cam.ac.uk/" alt="college 2">Cambridge</a>. In the year 1962, Stephen Hawking started his Ph.D. at Cambridge college. He was at the spire of his young age and committed to working. It was an exciting time for astrology, astronomy, and cosmology.</p>
 
 
 <h3> 1.	The big bang theory</h3>
@@ -75,9 +75,9 @@ Even though he gradually became aware of his changing health conditions, he mana
 :-------------------------:|:-------------------------:
 ![](/blog/images/steady.jpeg)  |  ![](/blog/images/big.jpeg)
 
-<p>In those times two theories ruled the world. The first one was <a href="https://en.wikipedia.org/wiki/Steady_State_theory">steady state theory</a>. It said that universe always existed and would exist forever. This theory was simple and comforting. <br></p>
+<p>In those times two theories ruled the world. The first one was <a href="https://en.wikipedia.org/wiki/Steady_State_theory" alt="theory 1">steady state theory</a>. It said that universe always existed and would exist forever. This theory was simple and comforting. <br></p>
 
-<p>The second one, however, was much more exciting and challenging <a href="https://en.wikipedia.org/wiki/The_Big_Bang_Theory">’the big bang theory’</a>. It stated that the universe had begun with a huge explosion and everything in the universe started after that.
+<p>The second one, however, was much more exciting and challenging <a href="https://en.wikipedia.org/wiki/The_Big_Bang_Theory" alt="theory 2">’the big bang theory’</a>. It stated that the universe had begun with a huge explosion and everything in the universe started after that.
 Stephen was much more excited about the latter than the first one. However, he couldn’t continue his work on it.</p>
 
 
@@ -88,7 +88,7 @@ Stephen was much more excited about the latter than the first one. However, he c
 <p>However, he couldn’t keep it hidden for long. Due to his aggravate condition, he got admitted to a hospital where he got diagnosed with ALS (amyotrophic lateral sclerosis). This disease was going to affect his nerve cells in the brain and spinal cord. He was given a maximum of three years live.<br>
 With all that going on in his life and all his dreams and aspirations, he couldn’t accept the fact that he was going to die eventually. </p>
 
-<p>Going back to <a href="https://www.cam.ac.uk/">Cambridge </a> and pursuing his studies back didn’t help him either. As he chose not to talk about it, slowly and steadily he was going into the depression. The thoughts of not having enough time to live sucked out the life out of him at a faster rate. At first, ALS picked up a pace and accelerated but eventually it slowed down.</p>
+<p>Going back to <a href="https://www.cam.ac.uk/" alt="repeat">Cambridge </a> and pursuing his studies back didn’t help him either. As he chose not to talk about it, slowly and steadily he was going into the depression. The thoughts of not having enough time to live sucked out the life out of him at a faster rate. At first, ALS picked up a pace and accelerated but eventually it slowed down.</p>
 
 <h3> 3.	Hope </h3>
 
