@@ -4,6 +4,7 @@ date: 2018-04-17T17:30:55+05:30
 draft: false
 featured_image : "Motion-graphics.png"
 author: "haman"
+description: " Motion graphics is a branch that deals with innovative transitions. Geometry,organic shape,mask,camera and transforming are the types of transitions which are included in this."
 
 ---
 

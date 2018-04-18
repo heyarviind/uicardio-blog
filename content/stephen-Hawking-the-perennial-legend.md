@@ -4,6 +4,7 @@ date: 2018-03-30T19:35:44+05:30
 draft: false
 featured_image : "Stephen_hawking.jpg"
 author: "haman"
+description: "Stephen hawking is a well known name for his research, wit and struggle in life. Big band theory, black holes and time theory makes him an indisputed king of science"
 ---
 How would your life be, if you knew that you could die any moment? That everything you had in your mind about life was a waste. You just had a clock going ticktock and racing towards your death. This feeling was the entire life of Stephen Hawking.
 
