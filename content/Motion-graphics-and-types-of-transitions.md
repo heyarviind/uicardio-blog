@@ -10,8 +10,6 @@ description: " Motion graphics is a branch that deals with innovative transition
 
 <p>Motion graphics can be a form of animation, abstract or experimental mixtures but with growing age of digital media, its definition had narrowed down to digital footage or animation. It is widely used for commercial purposes like animation in advertisements and films. Motion graphics now is an interactive phase of visual representation of design and data.Categorized into an electronic media technology, it has become a big career in the growing communication and digital industry.</p>
 
-
-
 <p>The career has been a playing cupid in the life of people and companies. <a href="http://www.blur.com/" alt="s"> Blur</a>, <a href="http://brandnewschool.com/" alt="c"> brand new school</a>, <a href="http://www.themill.com/" alt="h">the mill</a>, <a href="http://www.troika.tv/: alt="h">troika</a>, <a href="https://blind.com/" alt="o"> blind</a>, <a href="http://www.superestudio.tv/" alt="l">superstudio</a> and <a href= "http://gizmosite.tv/" alt= "z">gizmosite</a> are some of the famous names dwindled in the peddle of graphics creators. Creating such effective visual aids without using real people is a great challenge for people involved in this business. What really makes the results lovable today are their transitions, even if the basics.</p>
 
 <p>If we count a single transition as a hair, then there is an existence of whole head and that head definitely doesn’t belong to a bald man.</p>
