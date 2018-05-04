@@ -3,10 +3,10 @@
     {{ $url := replace .Permalink .Site.BaseURL "" }}
         {{ if ne $url "about/" }}
 
-              <div class="post-row">
+              <article class="post-row">
                 <h1><a href='{{ .Permalink }}'>{{ .Title }}</a></h1>
             
-                <div class="text-secondary mb-3">By {{ $author := index .Site.Params.Author .Params.author }} {{ $author.fullname }} on {{ .Date.Format "2 January, 2006" }}</div>
+                <div class="text-secondary mb-3 mt-0 realign">By {{ $author := index .Site.Params.Author .Params.author }} {{ $author.fullname }} on {{ .Date.Format "2 January, 2006" }}</div>
 
                 {{ if isset .Params "featured_image" }}
                   <img class="w-100" src="{{ .Site.BaseURL }}/images/{{ index .Params "featured_image" }}" alt="">
@@ -20,7 +20,7 @@
                     {{ end }}
                 {{ end }}
 
-              </div>
+              </article>
                 
         {{ end }}
     {{ end }}

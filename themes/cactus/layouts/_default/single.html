@@ -10,7 +10,7 @@
                         {{ .Title }}
                     </h1>
                     <span class="text-secondary">
-                        <div class="text-secondary mb-3">By {{ $author := index .Site.Params.Author .Params.author }} {{ $author.fullname }} on {{ .Date.Format "2 January, 2006" }}</div>
+                        <div class="text-secondary mb-3 realign">By {{ $author := index .Site.Params.Author .Params.author }} {{ $author.fullname }} on {{ .Date.Format "2 January, 2006" }}</div>
                     <!-- · {{ if lt 1 .WordCount }}{{ .WordCount }} words{{ else }}{{ .WordCount }} word{{ end }}
                     · {{ .ReadingTime }} minute read -->
                       <div class="tags">
@@ -38,11 +38,13 @@
                 <section>
                     {{ .Content }}
                 </section>
+
+                {{ if .Site.Params.enableShare }}
+                    {{ partial "share.html" . }}
+                {{ end }}
             </article>
 
-            {{ if .Site.Params.enableShare }}
-                {{ partial "share.html" . }}
-            {{ end }}
+            
 
             {{ if .Site.Params.enableDisqus }}
                 {{ partial "disqus.html" . }}

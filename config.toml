@@ -5,7 +5,8 @@ theme= "cactus"
 
 [params]
   mainURL = "https://uicard.io/"
-  enableSummary = true 
+  enableSummary = true
+  enableShare = true
 
 [social]
   twitter = "https://twitter.com/uicardio"
