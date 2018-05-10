@@ -20,3 +20,8 @@ theme= "cactus"
 [params.author.haman]
   fullName = "Haman Mahal"
   email = "hamanmahal001@gmail.com"
+
+[outputs]
+  home = ["html","json","RSS"]
+  page = ["html", "json","RSS"]
+  section = ["html", "json","RSS"]
