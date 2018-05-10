@@ -1,4 +1,4 @@
-{
+[
     {
         "title" : "Motion Graphics and Types of Transitions",
         "date_published" : "17 Apr, 2018",
@@ -6,7 +6,7 @@
         "featured_image" : "Motion-graphics.png",
         "author" : {
           "name" : "haman"
-        },
+        }
         },
     {
         "title" : "Stephen Hawking - the Perennial Legend",
@@ -15,7 +15,7 @@
         "featured_image" : "Stephen_hawking.jpg",
         "author" : {
           "name" : "haman"
-        },
+        }
         },
     {
         "title" : "Introduction to UICardio",
@@ -24,6 +24,6 @@
         "featured_image" : "uicardio-introduction.jpg",
         "author" : {
           "name" : "haman"
-        },
-        },
-    }
+        }
+        }
+    ]

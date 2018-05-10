@@ -1,6 +1,6 @@
 {{ $list := first 3 .Data.Pages -}}
-{{ $length := 0 -}}
-{
+{{ $length := (len $list) -}}
+[
     {{ range $index, $element := $list -}}
     {
         "title" : {{ .Title | jsonify }},
@@ -10,8 +10,8 @@
         {{ with .Params.author -}}
         "author" : {
           "name" : "{{ . }}"
-        },
+        }
         {{ end -}}
      }{{ if ne (add $index 1) $length }},{{ end }}
     {{ end -}}
-}
+]
