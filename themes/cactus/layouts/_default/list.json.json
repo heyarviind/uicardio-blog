@@ -1,0 +1,17 @@
+{{ $list := first 3 .Data.Pages -}}
+{{ $length := (len $list) -}}
+[
+    {{ range $index, $element := $list -}}
+    {
+        "title" : {{ .Title | jsonify }},
+        "date_published" : "{{ .Date.Format "02 Jan, 2006" }}",
+        "url" : "{{ .Permalink }}",
+        "featured_image" : "{{ .Params.featured_image }}",
+        {{ with .Params.author -}}
+        "author" : {
+          "name" : "{{ . }}"
+        }
+        {{ end -}}
+     }{{ if ne (add $index 1) $length }},{{ end }}
+    {{ end -}}
+]
