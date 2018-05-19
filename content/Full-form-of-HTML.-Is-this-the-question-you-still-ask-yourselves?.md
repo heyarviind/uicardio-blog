@@ -2,9 +2,10 @@
 title: "Full Form of HTML. Is This the Question You Still Ask Yourselves?"
 date: 2018-05-16T11:33:46+05:30
 draft: false
-featured_image: "2.jpg"
-author: "haman"
-description: "Do you want to know the full form of HTML? This language benefits everyone in one way or other. There are many major needs of knowing the full form of HTML. It is required everywhere on the internet today. You get a complete control of what you own. "
+featured_image : "2.jpg"
+author : "haman"
+description : "Do you want to know the full form of HTML? This language benefits everyone in one way or other. There are many major needs of knowing the full form of HTML. It is required everywhere on the internet today. You get a complete control of what you own. "
+twitter : "uiacardio"
 ---
 <p>
 If you are a person asking what is full form of HTML? learn it as soon as you can.	
