@@ -1,12 +1,13 @@
 ---
-title: "Full Form of HTML. Is This the Question You Still Ask Yourselves?"
-date: 2018-05-16T11:33:46+05:30
+title: "Full Form of HTML? Is This the Question You Still Ask?"
+date: 2018-05-23T16:32:19+05:30
 draft: false
 featured_image : "2.jpg"
 author : "haman"
 description : "Do you want to know the full form of HTML? This language benefits everyone in one way or other. There are many major needs of knowing the full form of HTML. It is required everywhere on the internet today. You get a complete control of what you own. "
-twitter : "uiacardio"
+twitter : "uicardio"
 ---
+
 <p>
 If you are a person asking what is full form of HTML? learn it as soon as you can.	
 HTML or hypertext markup language is a language used in building the foundation of a web page. With the growing demand for online services, the need for web developers and designers has also increased. The extravaganza of coding, artificial intelligence, and graphic design has swooped away the mind of common man. Even if you know nothing about technical stuff, these words are not new for you, I’m sure.</p>
@@ -14,7 +15,7 @@ HTML or hypertext markup language is a language used in building the foundation 
 
 <h2>What is full form of HTML?</h2>
 
-{{< youtube id="61dckXqDRJI" autoplay="false" >}}
+
 
 <p>What is full form of HTML? If this is the question that you ask yourself, then there is a fair chance that you lack behind in the time. As much as English is necessary to survive in this competitive world, coding is no far. A fair knowledge of computers and its languages like HTML, CSS and many more is vital for sustainable existence in this fast pacing world.</p>
 
