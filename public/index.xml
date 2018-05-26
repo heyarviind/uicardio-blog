@@ -6,10 +6,19 @@
     <description>Recent content on UICardio Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 23 May 2018 16:32:19 +0530</lastBuildDate>
+    <lastBuildDate>Sat, 26 May 2018 17:34:51 +0530</lastBuildDate>
     
 	<atom:link href="https://uicard.io/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Difference Between Static and Dynamic Pages</title>
+      <link>https://uicard.io/blog/difference-between-static-and-dynamic-pages/</link>
+      <pubDate>Sat, 26 May 2018 17:34:51 +0530</pubDate>
+      
+      <guid>https://uicard.io/blog/difference-between-static-and-dynamic-pages/</guid>
+      <description>If you are a developer, you will be well aware of the terms static and dynamic pages. On the contrary, let&#39;s assume that you are not a developer and don&#39;t know the explanation. Still, you must know these two words from a normal dictionary. The dynamic word refers to motion. It means an object that is moving further, an object that is capable of changing position along with speed and force with respect to time.</description>
+    </item>
     
     <item>
       <title>Full Form of HTML? Is This the Question You Still Ask?</title>
