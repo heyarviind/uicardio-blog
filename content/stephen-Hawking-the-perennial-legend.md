@@ -52,7 +52,7 @@ And well, we all know how that turned out later.</p>
 
 <h3> 2.	Lazy lad</h3>
 
-<a href="stephen7.jpg" alt="as a child"></a>
+
 <p>In his documentary, Stephen confesses that he was not very attentive to the concept of ‘making and saving money’. During his stay at Oxford, he made only a thousand dollars in three years, which is a work of average one hour a day. Definitely, he was not very proud of that but he spent most of the time partying. He was witty, popular and a member of college boat club.
 <br>
 Basically, he was the male ‘it girl’ of Oxford at those times and maintained that place the whole time.</p>

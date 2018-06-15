@@ -1,27 +1,27 @@
 [
     {
+        "title" : "Difference Between Static and Dynamic Pages",
+        "date_published" : "26 May, 2018",
+        "url" : "https://blog.uicard.io/difference-between-static-and-dynamic-pages/",
+        "featured_image" : "static_or_dynamic.jpg",
+        "author" : {
+          "name" : "haman"
+        }
+        },
+    {
+        "title" : "Full Form of HTML? Is This the Question You Still Ask?",
+        "date_published" : "23 May, 2018",
+        "url" : "https://blog.uicard.io/full-form-of-html-is-this-the-question-you-still-ask/",
+        "featured_image" : "2.jpg",
+        "author" : {
+          "name" : "haman"
+        }
+        },
+    {
         "title" : "Motion Graphics and Types of Transitions",
         "date_published" : "17 Apr, 2018",
         "url" : "https://blog.uicard.io/motion-graphics-and-types-of-transitions/",
         "featured_image" : "Motion-graphics.png",
-        "author" : {
-          "name" : "haman"
-        }
-        },
-    {
-        "title" : "Stephen Hawking - the Perennial Legend",
-        "date_published" : "30 Mar, 2018",
-        "url" : "https://blog.uicard.io/stephen-hawking-the-perennial-legend/",
-        "featured_image" : "Stephen_hawking.jpg",
-        "author" : {
-          "name" : "haman"
-        }
-        },
-    {
-        "title" : "Introduction to UICardio",
-        "date_published" : "17 Mar, 2018",
-        "url" : "https://blog.uicard.io/introduction-to-uicardio/",
-        "featured_image" : "uicardio-introduction.jpg",
         "author" : {
           "name" : "haman"
         }
