@@ -19,8 +19,10 @@ description: "In website building, static and dynamic pages are a very important
 <p>A dynamic webpage, however, can change the content or its presentation from the same source code. There is no substantial need for a developer to give his time out for this task.</p>
 
 <h2>How do static and dynamic pages work</h2>
-![static_and_dynamic_pages](/blog/images/static.jpg)
+
 <p>To understand the working of static and dynamic pages remember that HTML files are the source code, stored in owner’s computer. Here the owner(host) is the device that has the source code for the program.</p>
+
+![static_and_dynamic_pages](/blog/images/static.jpg)
 
 <h3>Static pages</h3>
 <ul>
