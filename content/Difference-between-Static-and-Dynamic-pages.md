@@ -22,8 +22,6 @@ description: "In website building, static and dynamic pages are a very important
 
 <p>To understand the working of static and dynamic pages remember that HTML files are the source code, stored in owner’s computer. Here the owner(host) is the device that has the source code for the program.</p>
 
-![static_and_dynamic_pages](/blog/images/static.jpg)
-
 <h3>Static pages</h3>
 <ul>
 <li>The user enters a URL or a hyperlink in the search box to request some information from a specific site.</li>
