@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Difference Between Static and Dynamic Pages on UICardio Blog</title>
-    <link>https://uicard.io/blog/difference-between-static-and-dynamic-pages/</link>
+    <link>https://blog.uicard.io/difference-between-static-and-dynamic-pages/</link>
     <description>Recent content in Difference Between Static and Dynamic Pages on UICardio Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 26 May 2018 17:34:51 +0530</lastBuildDate>
     
-	<atom:link href="https://uicard.io/blog/difference-between-static-and-dynamic-pages/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://blog.uicard.io/difference-between-static-and-dynamic-pages/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

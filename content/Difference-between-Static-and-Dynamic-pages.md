@@ -46,7 +46,7 @@ description: "In website building, static and dynamic pages are a very important
 <p><b>And this is a dynamic page.</b></p>
 <p><i>Remember that the source code changes every time in a static page to make a change but not the case in dynamic.</i></p>
 
-
+<br>
 <h3>How to decide between static and dynamic pages</h3>
 <p>The answer is you don’t. there is no need to decide between both or there is no need to compare static and dynamic pages. Both of them are different, have a different working method. As user or developer, you must inspect about the one you need.<p>
 <p>Static websites or static pages are easy to make and cheaper to support but dynamic one’s support CMS, which is an important part of times.</p>
