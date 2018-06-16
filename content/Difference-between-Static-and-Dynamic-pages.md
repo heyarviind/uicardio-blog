@@ -52,4 +52,4 @@ description: "In website building, static and dynamic pages are a very important
 </br>
 </br>
 
-<p> I hope this helped you. If you want to check out more about static site,<a href="https://uicard.io/">come here</a>. You cn also contact us through our email.</p>
+<p> I hope this helped you. If you want to check out more about static site,<a href="https://uicard.io/">come here</a>. You can also contact us through our email.</p>
