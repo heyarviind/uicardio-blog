@@ -25,7 +25,7 @@ Known for his various concepts and discoveries like origin of the universe, time
 
    Stephen Hawkings        |  With parents
 :-------------------------:|:-------------------------:
-![image](/static/images/child.jpg)  |  ![image 2](/static/images/young-stephen-hawking-1.jpg)
+![image](/static/child.jpg)  |  ![image 2](/static/young-stephen-hawking-1.jpg)
  In his [self-made documentary](https://www.youtube.com/watch?v=7NN2vsNgbZs
 ), Stephen says,
 
@@ -98,7 +98,7 @@ With all that going on in his life and all his dreams and aspirations, he couldn
 
 <blockquote>This is how Stephen Hawking describes that time <br>
 
-![jane](/static/images/4396a7cad34313d41d88f29a19fa1b9b.jpg)
+![jane](/static/4396a7cad34313d41d88f29a19fa1b9b.jpg)
 	
 "What really made the difference was falling in love with a girl called Jane wild, whom I had met the same time I was diagnosed. 
 This gave me something to live for"</blockquote>
