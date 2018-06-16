@@ -48,3 +48,8 @@ description: "In website building, static and dynamic pages are a very important
 <h3>How to decide between static and dynamic pages</h3>
 <p>The answer is you don’t. there is no need to decide between both or there is no need to compare static and dynamic pages. Both of them are different, have a different working method. As user or developer, you must inspect about the one you need.<p>
 <p>Static websites or static pages are easy to make and cheaper to support but dynamic one’s support CMS, which is an important part of times.</p>
+</br>
+</br>
+</br>
+</br>
+<p> I hope this helped you. If you want to check out more about static site,<a href="https://uicard.io/">come here. You cn also contact us through our email.</a></p>
