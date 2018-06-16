@@ -76,7 +76,6 @@ Even though he gradually became aware of his changing health conditions, he mana
 
 <p>In those times two theories ruled the world. The first one was <a href="https://en.wikipedia.org/wiki/Steady_State_theory" alt="theory 1">steady state theory</a>. It said that universe always existed and would exist forever. This theory was simple and comforting. <br></p>
 
-
    big bang theory         |      steady state
 :-------------------------:|:-------------------------:
 ![big bang](/blog/images/steady.jpeg)  |  ![steady state](/blog/images/big.jpeg)
