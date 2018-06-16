@@ -9,7 +9,7 @@ twitter : "uicardio"
 ---
 
 <p>
-If you are a person asking what is full form of HTML? learn it as soon as you can.	
+If you are a person asking what is full form of HTML? learn it as soon as you can.
 HTML or hypertext markup language is a language used in building the foundation of a web page. With the growing demand for online services, the need for web developers and designers has also increased. The extravaganza of coding, artificial intelligence, and graphic design has swooped away the mind of common man. Even if you know nothing about technical stuff, these words are not new for you, I’m sure.</p>
 
 
@@ -27,7 +27,7 @@ HTML or hypertext markup language is a language used in building the foundation 
 
 <h3>1.	Making your content easy to read.</h3>
 
-<p> <a href="https://uicard.io/blog/">Blogging</a> is a very important part of every website. If you are an owner of a website and prefer blogging personally, you must have experienced the need to clean the look of the content you showcase. A bulky looking content is of no use. 
+<p> <a href="https://uicard.io/blog/">Blogging</a> is a very important part of every website. If you are an owner of a website and prefer blogging personally, you must have experienced the need to clean the look of the content you showcase. A bulky looking content is of no use.
 Some reasons behind this are</p>
 
 <ul>
@@ -62,8 +62,8 @@ A basic knowledge of HTML can do this for you.</p>
 <p>In maintaining a website, it needs regular updates. A prior knowledge of HTML will give you control over it. You can make changes in the design, plugins and code yourself. There is no need for some developer to do it.</p>
 
 <h3>6.	Better communication</h3>
-![full_form_of_html](/blog/images/6.png)
-<p>Every business now uses web browsers. Knowing HTML will not only expand your area of reach but benefit your business too. For instance, let's talk about guest posts. Many websites allow a PDF submission to their blogs but there are some that have strict guidelines for submission. They accept the posts written just in HTML.</p> 
+![full_form_of_html](/images/6.png)
+<p>Every business now uses web browsers. Knowing HTML will not only expand your area of reach but benefit your business too. For instance, let's talk about guest posts. Many websites allow a PDF submission to their blogs but there are some that have strict guidelines for submission. They accept the posts written just in HTML.</p>
 <p>Hence, learning HTML will increase your area of reach. It will be an asset in your communication skills with fellow bloggers and website owners.</p>
 
 
@@ -76,7 +76,7 @@ A basic knowledge of HTML can do this for you.</p>
 Starting from full form of HTML you can be a person earning well through it</p>
 
 
-<p>It may surprise you even more than HTML is not a grueling language. With a proper presence of mind, you can learn it in three months’  to the largest. 
+<p>It may surprise you even more than HTML is not a grueling language. With a proper presence of mind, you can learn it in three months’  to the largest.
 Also, don't worry about the cost of the course. We are going to solve that problem for you.</p>
 
 <p>There are several online websites that offer HTML courses for free.</p>
@@ -97,5 +97,3 @@ Also, don't worry about the cost of the course. We are going to solve that probl
 
 <p>So, maybe now you don’t need to find the full form of HTML on browsers. You have known the value and benefits of entering the world of hypertext markup language.
 We hope this has motivated you enough and pumped your knowledge about HTML.</p>
-
-

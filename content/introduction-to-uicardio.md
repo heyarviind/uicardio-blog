@@ -47,7 +47,7 @@ Our website, [products](https://uicard.io/products), services, [blog](https://ui
 
 <h2>Components and documentation</h2>
 
-![Example image](/blog/images/components-documentation.jpg)
+![Example image](/images/components-documentation.jpg)
 
 All the [products](https://uicard.io/products) will have various components which will be clearly defined in code. Also, for a better understanding of products all the templates, themes and especially UI kits will come with proper documentation. We believe that documentation decreases the difficulty faced by customers to the maximum extent.
 <br>
@@ -56,7 +56,7 @@ All the [products](https://uicard.io/products) will have various components whic
 <h2>Name and logo</h2>
 
 The name [UICard.io](https://uicard.io/) comes from user interface (means by which user and computer interact).
-![the you](/blog/images/full-logo.png)
+![the you](/images/full-logo.png)
 
 Our logo ‘you’ represents [uicard.io](https://uicard.io/) moving further for the active participation in the software community. It also represents the first letter of the name.
 
@@ -65,4 +65,4 @@ Also, we come with a 24 hours’ assistance. All the users connected to us by an
 
 <h3>Conclusion</h3>
 
-[Uicard.io](https://uicard.io/) is a website that provides the developer community with sleek, modern and beautiful _bootstrap templates, themes, UI kits_ and customizable components. We come with an idea to contribute our work to the developer community. 
+[Uicard.io](https://uicard.io/) is a website that provides the developer community with sleek, modern and beautiful _bootstrap templates, themes, UI kits_ and customizable components. We come with an idea to contribute our work to the developer community.

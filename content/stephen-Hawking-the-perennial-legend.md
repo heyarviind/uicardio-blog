@@ -13,7 +13,7 @@ says Stephen Hawking.</blockquote>
 
 Stephen Hawking, the renowned scientist, and discoverer, who recently died, had to live with this fact every day. At the age of 76, he left his mortal body with a smile and a lot to read and understand for future scientists and science students. At the age of 21, the threat of death hung over him and remained at the same place for the rest of his life.
 
-Known for his various concepts and discoveries like origin of the universe, time, the big bang theory, black hole radiation, gravitational and space-time singularities, universe without space-time boundaries and the high likelihood of existing extraterrestrial life, he marked his life span as a legend. 
+Known for his various concepts and discoveries like origin of the universe, time, the big bang theory, black hole radiation, gravitational and space-time singularities, universe without space-time boundaries and the high likelihood of existing extraterrestrial life, he marked his life span as a legend.
 
 <blockquote>“However difficult life may seem, there is always something you can do and succeed at.”
  he said.</blockquote>
@@ -25,7 +25,7 @@ Known for his various concepts and discoveries like origin of the universe, time
 
    Stephen Hawkings        |  With parents
 :-------------------------:|:-------------------------:
-![image](/static/child.jpg)  |  ![image 2](/static/young-stephen-hawking-1.jpg)
+![image](/images/child.jpg)  |  ![image 2](/images/young-stephen-hawking-1.jpg)
  In his [self-made documentary](https://www.youtube.com/watch?v=7NN2vsNgbZs
 ), Stephen says,
 
@@ -37,8 +37,8 @@ Known for his various concepts and discoveries like origin of the universe, time
 
 <h2>Times at Oxford</h2>
 
-<p>Born exactly after 300 years’ death anniversary of 
-	<a href="https://en.wikipedia.org/wiki/Galileo_Galilei" alt="scientist">Galileo</a>, Stephen Hawking was a brilliant mind. He was a very humorous man since childhood till his death days. 
+<p>Born exactly after 300 years’ death anniversary of
+	<a href="https://en.wikipedia.org/wiki/Galileo_Galilei" alt="scientist">Galileo</a>, Stephen Hawking was a brilliant mind. He was a very humorous man since childhood till his death days.
 When asked about eureka moment of scientific discovery he says,</p>
 
 <blockquote>“I wouldn’t compare it to sex, but it lasts longer”</blockquote>
@@ -66,7 +66,7 @@ Basically, he was the male ‘it girl’ of Oxford at those times and maintained
 Even though he gradually became aware of his changing health conditions, he managed to complete his study at Oxford college.</p>
 
 <h2>Cambridge college</h2>
- 
+
 <p>After Oxford consummated, it was time for <a href="https://www.cam.ac.uk/" alt="college 2">Cambridge</a>. In the year 1962, Stephen Hawking started his Ph.D. at Cambridge college. He was at the spire of his young age and committed to working. It was an exciting time for astrology, astronomy, and cosmology.</p>
 
 
@@ -76,7 +76,7 @@ Even though he gradually became aware of his changing health conditions, he mana
 
    big bang theory         |      steady state
 :-------------------------:|:-------------------------:
-![big bang](/static/images/steady.jpeg)  |  ![steady state](/static/images/big.jpeg)
+![big bang](/images/steady.jpeg)  |  ![steady state](/images/big.jpeg)
 
 <p>The second one, however, was much more exciting and challenging <a href="https://en.wikipedia.org/wiki/The_Big_Bang_Theory" alt="theory 2">’the big bang theory’</a>. It stated that the universe had begun with a huge explosion and everything in the universe started after that.
 Stephen was much more excited about the latter than the first one. However, he couldn’t continue his work on it.</p>
@@ -98,9 +98,9 @@ With all that going on in his life and all his dreams and aspirations, he couldn
 
 <blockquote>This is how Stephen Hawking describes that time <br>
 
-![jane](/static/4396a7cad34313d41d88f29a19fa1b9b.jpg)
-	
-"What really made the difference was falling in love with a girl called Jane wild, whom I had met the same time I was diagnosed. 
+<img src="/images/4396a7cad34313d41d88f29a19fa1b9b.jpg"/>
+
+"What really made the difference was falling in love with a girl called Jane wild, whom I had met the same time I was diagnosed.
 This gave me something to live for"</blockquote>
 
 <p>And truly this was what he needed. Even with his slowly deforming body, he could now feel the heat back. He was again seen solving equations and spending time at college and with his research.</p>
@@ -111,7 +111,3 @@ said Stephen Hawking. </blockquote>
 <p>He knew that to do so he had to get a job. And to get a job he had to complete his Ph.D. This doubled his determination and he started to work harder.
 
 And this was the turning point in Stephen’s life. He had crossed the toughest point and was moving towards the glorious future that was standing by him.</p>
-
-
-
-
