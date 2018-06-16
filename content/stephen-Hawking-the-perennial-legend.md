@@ -25,7 +25,7 @@ Known for his various concepts and discoveries like origin of the universe, time
 
    Stephen Hawkings        |  With parents
 :-------------------------:|:-------------------------:
-![image](/blog/images/child.jpg)  |  ![image 2](/blog/images/young-stephen-hawking-1.jpg)
+![image](/static/images/child.jpg)  |  ![image 2](/static/images/young-stephen-hawking-1.jpg)
  In his [self-made documentary](https://www.youtube.com/watch?v=7NN2vsNgbZs
 ), Stephen says,
 
@@ -76,7 +76,7 @@ Even though he gradually became aware of his changing health conditions, he mana
 
    big bang theory         |      steady state
 :-------------------------:|:-------------------------:
-![big bang](/blog/images/steady.jpeg)  |  ![steady state](/blog/images/big.jpeg)
+![big bang](/static/images/steady.jpeg)  |  ![steady state](/static/images/big.jpeg)
 
 <p>The second one, however, was much more exciting and challenging <a href="https://en.wikipedia.org/wiki/The_Big_Bang_Theory" alt="theory 2">’the big bang theory’</a>. It stated that the universe had begun with a huge explosion and everything in the universe started after that.
 Stephen was much more excited about the latter than the first one. However, he couldn’t continue his work on it.</p>
@@ -98,7 +98,7 @@ With all that going on in his life and all his dreams and aspirations, he couldn
 
 <blockquote>This is how Stephen Hawking describes that time <br>
 
-<img src="/blog/images/4396a7cad34313d41d88f29a19fa1b9b.jpg">
+![jane](/static/images/4396a7cad34313d41d88f29a19fa1b9b.jpg)
 	
 "What really made the difference was falling in love with a girl called Jane wild, whom I had met the same time I was diagnosed. 
 This gave me something to live for"</blockquote>
