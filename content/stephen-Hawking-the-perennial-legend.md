@@ -29,6 +29,7 @@ Known for his various concepts and discoveries like origin of the universe, time
  In his [self-made documentary](https://www.youtube.com/watch?v=7NN2vsNgbZs
 ), Stephen says,
 
+
 <blockquote>“I had a passion to understand how things worked, from a toy train to the whole universe”</blockquote>
 
 <p>His sister Mary explains that he had a very keen mind. She also tells that he had a passion to understand how stuff worked. She finished off by displaying the fact that since childhood he used to sit alone and look towards sky, thinking about eternity and how it works.</p>
@@ -72,11 +73,13 @@ Even though he gradually became aware of his changing health conditions, he mana
 <h3> 1.	The big bang theory</h3>
 
 
+
+<p>In those times two theories ruled the world. The first one was <a href="https://en.wikipedia.org/wiki/Steady_State_theory" alt="theory 1">steady state theory</a>. It said that universe always existed and would exist forever. This theory was simple and comforting. <br></p>
+
+
    big bang theory         |      steady state
 :-------------------------:|:-------------------------:
 ![big bang](/blog/images/steady.jpeg)  |  ![steady state](/blog/images/big.jpeg)
-
-<p>In those times two theories ruled the world. The first one was <a href="https://en.wikipedia.org/wiki/Steady_State_theory" alt="theory 1">steady state theory</a>. It said that universe always existed and would exist forever. This theory was simple and comforting. <br></p>
 
 <p>The second one, however, was much more exciting and challenging <a href="https://en.wikipedia.org/wiki/The_Big_Bang_Theory" alt="theory 2">’the big bang theory’</a>. It stated that the universe had begun with a huge explosion and everything in the universe started after that.
 Stephen was much more excited about the latter than the first one. However, he couldn’t continue his work on it.</p>
@@ -96,7 +99,7 @@ With all that going on in his life and all his dreams and aspirations, he couldn
 
 <p>It seemed like an end for him. But just like a ray of light in dark, he came in contact with a girl. The girl who later became his wife and is known as  Jane Hawking now.</p>
 
-![jane](/blog/images/4396a7cad34313d41d88f29a19fa1b9b.jpg)
+<img src="/blog/images/4396a7cad34313d41d88f29a19fa1b9b.jpg">
 
 <blockquote>This is how Stephen Hawking describes that time <br>
 	
