@@ -111,3 +111,5 @@ said Stephen Hawking. </blockquote>
 <p>He knew that to do so he had to get a job. And to get a job he had to complete his Ph.D. This doubled his determination and he started to work harder.
 
 And this was the turning point in Stephen’s life. He had crossed the toughest point and was moving towards the glorious future that was standing by him.</p>
+
+<p>Get to our<a href="https://uicard.io/" >website</a>for various products. </p>
