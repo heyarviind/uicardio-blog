@@ -1,6 +1,6 @@
 baseURL= "https://blog.uicard.io/"
 languageCode="en-us"
-title = "UICardio Blog"
+title = "UICardio"
 theme= "cactus"
 
 [params]
