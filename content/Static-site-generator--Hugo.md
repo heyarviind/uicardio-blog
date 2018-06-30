@@ -4,6 +4,7 @@ date: 2018-06-21T10:13:41+05:30
 draft: false
 author: "haman"
 featured_image: "hugo.jpg"
+description: "hugo is a static site generator. It is different from dynamic sites. there are many themes bootstrap and non-bootstrap that contribute in its building"
 ---
 
 <p>Hugo, as the name definitely doesn't suggest is a known static site generator. Some of you might be knowing what a static site generator is but others are definitely planning to google it. If not, you might just abandon this written piece presuming that you use WordPress and it is best for generation of your sites.</p>
