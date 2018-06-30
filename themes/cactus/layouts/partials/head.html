@@ -10,7 +10,7 @@
 			{{ partial "twitter-cards.html" . }}
 		{{ end }}
 		<!-- {{ with .Site.Params.author }}<meta name="author" content="{{ . }}">{{ end }} -->
-		{{ with .Site.Params.description }}<meta name="description" content="{{ . }}">{{ end }}
+		{{ if isset .Params "description" }}<meta name="description" content="{{ .Params.description }}">{{ end }}
 		{{ .Hugo.Generator }}
 		<link rel="shortcut icon" href="{{ .Site.Params.mainURL }}favicon.png">
 		<link rel="stylesheet" href="{{ .Site.BaseURL }}css/style.css">
