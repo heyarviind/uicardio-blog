@@ -133,8 +133,7 @@ Comparatively, in a static site, you just need HTML, CSS, and JavaScript.</p>
 <li>	A happy bonus</li>
 <P> We offer you 6 freshly baked illustrations for different niches like medical, freelance and education for free. Now, this definitely is the cherry on the top.</P>
 </ul>
-<br>
-<p>&nbsp&nbsp&nbsp&nbsp&nbsp<a href="https://uicard.io/products/hugo-sodium">  Check out our latest theme for hugo here</a></p>
+<p>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<a href="https://uicard.io/products/hugo-sodium">  Check out our latest theme for hugo here</a></p>
 <br>
 
 
