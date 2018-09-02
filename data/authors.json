@@ -1,0 +1,21 @@
+[
+	{
+		"name" : "Haman Mahal",
+		"displayPicture" : "haman.jpg",
+		"email" : "",
+		"social" : {
+			"instagram" : "",
+			"facebook" : ""
+		}
+	},
+	{
+		"name" : "Arvind Singh",
+		"displayPicture" : "arvind.jpg",
+		"email" : "heyarviind@gmail.com",
+		"social" : {
+			"instagram" : "heyarviind",
+			"twitter" : "heyarviind",
+			"github" : "heyarviind"
+		}
+	}
+]

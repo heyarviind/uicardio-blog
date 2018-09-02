@@ -1,5 +1,14 @@
 [
     {
+        "title" : "Counter in Javascript CSS",
+        "date_published" : "02 Sep, 2018",
+        "url" : "https://blog.uicard.io/counter-in-javascript-css/",
+        "featured_image" : "counter.jpg",
+        "author" : {
+          "name" : "arvind"
+        }
+        },
+    {
         "title" : "Static Site Generator  Hugo",
         "date_published" : "21 Jun, 2018",
         "url" : "https://blog.uicard.io/static-site-generator--hugo/",
@@ -13,15 +22,6 @@
         "date_published" : "26 May, 2018",
         "url" : "https://blog.uicard.io/difference-between-static-and-dynamic-pages/",
         "featured_image" : "static_or_dynamic.jpg",
-        "author" : {
-          "name" : "haman"
-        }
-        },
-    {
-        "title" : "Full Form of HTML? Is This the Question You Still Ask?",
-        "date_published" : "23 May, 2018",
-        "url" : "https://blog.uicard.io/full-form-of-html-is-this-the-question-you-still-ask/",
-        "featured_image" : "2.jpg",
         "author" : {
           "name" : "haman"
         }

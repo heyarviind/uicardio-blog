@@ -1,0 +1,276 @@
+<!DOCTYPE html>
+<html lang="en-us">
+	<head>
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<meta name="google-site-verification" content="VBLtf1ht_Tct7jA5g6jiu_SnlFRB5A2NL9qVA9qJPDc" />
+		<title>Counter in Javascript CSS &middot; Blog - UICardio</title>
+		
+		
+		
+		<meta name="generator" content="Hugo 0.47.1" />
+		<link rel="shortcut icon" href="https://uicard.io/favicon.png">
+		<link rel="stylesheet" href="https://blog.uicard.io/css/style.css">
+		<link rel="stylesheet" href="https://blog.uicard.io/css/highlight.css">
+
+		<link href="https://fonts.googleapis.com/css?family=Gothic+A1:700" rel="stylesheet">
+		<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.12/css/all.css" integrity="sha384-G0fIWCsCzJIMAVNQPfjH08cyYaUtMwjJwqiRKxxE/rx96Uroj1BtIQ6MLJuheaO9" crossorigin="anonymous">
+
+    
+		<link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
+		
+		
+
+		
+
+
+		
+
+		
+		
+		<meta property="og:type" content="blog" />
+		<meta property="og:title" content="Counter in Javascript CSS &middot; Blog - UICardio" />
+		
+		<meta property="og:image" content="https://uicard.io/blog/images/counter.jpg" />
+		<meta name="twitter:image" content="https://uicard.io/blog/images/counter.jpg">
+		
+	</head>
+
+    <body>
+      <div class="container">
+
+       <nav class="navbar navbar-expand-lg navbar-lg navbar-light nav-colored">
+  <div class="container"><a href="/" class="navbar-brand"><img src="https://blog.uicard.io/images/avatar.png" height="30px"/></a>
+    <button type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation" class="navbar-toggler"><span class="navbar-toggler-icon"></span></button>
+    <div id="navbarSupportedContent" class="collapse navbar-collapse">
+      <ul class="navbar-nav mr-auto"></ul>
+      <ul class="navbar-nav">
+        <li class="nav-item"><a href="https://uicard.io/products" class="nav-link">Products</a></li>
+        <li class="nav-item"><a href="https://blog.uicard.io/" class="nav-link">Blog</a></li>
+      </ul>
+    </div>
+  </div>
+</nav>
+
+        <section>
+            <article>
+                <header>
+                    <h1>
+                        Counter in Javascript CSS
+                    </h1>
+                    <span class="text-secondary">
+                        <div class="text-secondary mb-3 realign">By  Arvind Singh on 2 September, 2018</div>
+                    
+                      <div class="tags">
+                      
+                    </div>
+                    </span>
+                </header>
+                
+                    <img class="w-100" src="https://blog.uicard.io//images/counter.jpg" alt="">
+                
+                
+                
+                <section>
+                    
+
+<p><br></p>
+
+<p>I was scrolling through where I found a cool number counter, I thought they made it in javascript but after looking at hashtags <mark>#3dmax #animation</mark> I came to know it was made in 3D software. I was like, why not remake it in javascript (just for fun). After I created the animated counter, I shared it on my <a target="_blank" href="https://instagram.com/heyarviind">Instagram</a> and got very positive reviews and many for the followers were asking for code and tutorials.</p>
+
+<!-- <blockquote>"The code is much simpler than you might think let's have a look at the structure"</blockquote> -->
+
+<h2 id="creating-the-structure">Creating the structure</h2>
+
+<p>The HTML structure is composed of <mark>15 circle</mark> divs wrapped in a div, each row contains 3 circle divs so that we can show the numbers accurately</p>
+
+<pre>
+    <code>
+    &lt;div class=&quot;container&quot;&gt;
+      
+      &lt;div class=&quot;circle&quot;&gt;&lt;/div&gt;
+      &lt;div class=&quot;circle&quot;&gt;&lt;/div&gt;
+      ...
+
+    &lt;/div&gt;
+    </code>
+</pre>
+
+<h2 id="adding-styles">Adding styles</h2>
+
+<p>I&rsquo;ve kept this code simple so that readers can understand it easily, in CSS all I did is made 2 states of the circle, one is smaller grey in color which donates the <mark>inactive state</mark> and the second one is the <mark>.active class</mark> which makes the div bigger in size and colored to indicate the <mark>active</mark> state of the circle</p>
+
+<pre>
+    <code>
+        .circle{
+          width: 60px;
+          height: 60px;
+          background-color: #536dfe;
+          border-radius: 50%;
+          display: inline-block;
+          transform: scale(.2);
+          background-color: #c4c4c4;
+          transition: transform 1s ease-in-out;
+        }
+
+        .circle.active{
+          transform: scale(1);
+          background-color: #536dfe;
+        }
+    </code>
+</pre>
+
+<h2 id="events-handling">Events handling</h2>
+
+<p>First of all, we need to define the pattern of each number so that it can change the DOM accordingly. What I did is, made an array and defined each number&rsquo;s pattern as shown below.</p>
+
+<pre>
+    <code>
+        var num_pattern = [
+                  [ 
+                    1, 1, 1,
+                    1, 0, 1,
+                    1, 0, 1,        //For 1
+                    1, 0, 1,
+                    1, 1, 1
+                  ],
+                  [
+                    1, 1, 1,
+                    0, 0, 1,
+                    1, 1, 1,        //For 2
+                    1, 0, 0,
+                    1, 1, 1
+                  ]
+                  ...
+            ];
+    </code>
+</pre>
+
+<p><strong>0</strong> indicates the <mark>inactive</mark> state and <strong>1</strong> indicates the <mark>active</mark> state</p>
+
+<p>the main concept here is, each <mark>0</mark> and <mark>1</mark> in the pattern donates each element in the DOM. So if there is <mark>1</mark> in the 3rd index of an array, the 4th circle will be active ( Don&rsquo;t get confused here, Array starts from 0 😜)</p>
+
+<p>now we have to change the number on every second so <strong>setTimeInteval</strong> will do the job. On every second we increment the number and check the number pattern in the array and update the DOM.</p>
+
+<pre>
+    <code>
+        var circles = document.querySelectorAll('.circle');
+        var i = 0;
+
+        setInterval(function(){
+          incNum();
+          // Increment the number at every 1 second
+          i++;
+        }, 1000);
+
+        function incNum(){
+          // Reset the counter when it reaches > 9
+          if(i == 10) i = 0;
+
+          for(z = 0; z < num_pattern[i].length; z++){
+            if(num_pattern[i][z]){
+              //If it has '1' then make the circle active
+              //Check if the circle is already active
+              if(!circles[z].classList.contains('active')){
+                circles[z].classList.add("active");
+              }
+            } else {
+              if(circles[z].classList.contains('active')){
+                circles[z].classList.remove("active");
+              }
+            }
+          }
+        }
+    </code>
+</pre>
+
+<p><strong>Note:</strong> Here we&rsquo;re only updating the DOM if required, this also gives the sweet effect to the animation</p>
+
+<div class="text-center">
+    <a target="_blank" class="btn btn-success" href="https://demo.uicard.io">See the Demo</a>
+</div>
+
+                </section>
+
+                
+                    <div class="share text-center">
+  <span class="d-inline d-sm-inline d-md-none">Share&nbsp;&nbsp;&nbsp;</span>
+  <a target="_blank" class="btn btn-facebook" href="https://www.facebook.com/sharer/sharer.php?u=https%3a%2f%2fblog.uicard.io%2fcounter-in-javascript-css%2f">
+    <i class="fab fa-facebook"></i> <span class="d-none d-lg-inline d-md-inline">Share on Facebook</span>
+  </a>
+  <a class=" btn btn-twitter" target="_blank" href="https://twitter.com/home?status=https%3a%2f%2fblog.uicard.io%2fcounter-in-javascript-css%2f">
+    <i class="fab fa-twitter"></i> <span class="d-none d-lg-inline d-md-inline">Share on Twitter</span>
+  </a>
+</div>
+                
+            </article>
+
+            
+
+            
+                <div class="mt-5" id="disqus_thread" style="max-width: 600px; margin: 0 auto;"></div>
+<script type="text/javascript">
+    var disqus_shortname = 'demo-uicard-io'; 
+
+     
+    (function() {
+        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+</div>
+
+            
+
+            
+
+            <footer id="footer" class="text-center mt-5">
+    
+        <div id="social" >
+
+	
+    <a  class="symbol mx-1 my-3 d-inline-block" style="font-size: 20px;"  href="https://instagram.com/uicardio">
+        <i class="fab fa-instagram"></i>
+    </a>
+    
+    <a  class="symbol mx-1 my-3 d-inline-block" style="font-size: 20px;"  href="https://twitter.com/uicardio">
+        <i class="fab fa-twitter"></i>
+    </a>
+    
+
+</div>
+
+    
+    <p class="text-muted">
+    
+       © Copyright 2018 <i class="fa fa-heart" aria-hidden="true"></i>
+    
+    </p>
+</footer>
+
+        </section>
+
+        
+<script src="https://blog.uicard.io/js/highlight.min.js"></script>
+<script>hljs.initHighlightingOnLoad();</script>
+
+
+
+
+
+
+
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-114708351-1"></script>
+<script>window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+gtag('config', 'UA-114708351-1');
+</script>
+
+
+      </div>
+    </body>
+</html>

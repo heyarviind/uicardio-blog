@@ -1,15 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>UICardio</title>
+    <title>Blog - UICardio</title>
     <link>https://blog.uicard.io/</link>
-    <description>Recent content on UICardio</description>
+    <description>Recent content on Blog - UICardio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 21 Jun 2018 10:13:41 +0530</lastBuildDate>
+    <lastBuildDate>Sun, 02 Sep 2018 19:29:09 +0530</lastBuildDate>
     
 	<atom:link href="https://blog.uicard.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Counter in Javascript CSS</title>
+      <link>https://blog.uicard.io/counter-in-javascript-css/</link>
+      <pubDate>Sun, 02 Sep 2018 19:29:09 +0530</pubDate>
+      
+      <guid>https://blog.uicard.io/counter-in-javascript-css/</guid>
+      <description>I was scrolling through where I found a cool number counter, I thought they made it in javascript but after looking at hashtags #3dmax #animation I came to know it was made in 3D software. I was like, why not remake it in javascript (just for fun). After I created the animated counter, I shared it on my Instagram and got very positive reviews and many for the followers were asking for code and tutorials.</description>
+    </item>
     
     <item>
       <title>Static Site Generator  Hugo</title>

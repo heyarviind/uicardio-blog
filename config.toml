@@ -1,12 +1,14 @@
 baseURL= "https://blog.uicard.io/"
 languageCode="en-us"
-title = "UICardio"
+title = "Blog - UICardio"
 theme= "cactus"
 
 [params]
   mainURL = "https://uicard.io/"
   enableSummary = true
   enableShare = true
+  enableDisqus = true
+  disqusShortname = "demo-uicard-io"
 
 [social]
   twitter = "https://twitter.com/uicardio"
