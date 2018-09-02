@@ -7,7 +7,7 @@ featured_image: "counter.jpg"
 ---
 <br>
 
-I was scrolling through where I found a cool number counter, I thought they made it in javascript but after looking at hashtags <mark>#3dmax #animation</mark> I came to know it was made in 3D software. I was like, why not remake it in javascript (just for fun). After I created the animated counter, I shared it on my <a target="_blank" href="https://instagram.com/heyarviind">Instagram</a> and got very positive reviews and many for the followers were asking for code and tutorials. 
+I was scrolling through Instagram and found a cool number counter, I thought they made it in javascript but after looking at hashtags <mark>#3dmax #animation</mark> I came to know it was made in 3D software. I was like, why not remake it in javascript (just for fun). After I created the animated counter, I shared it on my <a target="_blank" href="https://instagram.com/heyarviind">Instagram</a> and got very positive reviews and many for the followers were asking for code and tutorials. 
 
 <!-- <blockquote>"The code is much simpler than you might think let's have a look at the structure"</blockquote> -->
 
