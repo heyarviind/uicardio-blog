@@ -118,6 +118,6 @@ now we have to change the number on every second so <strong>setTimeInteval</stro
 <strong>Note:</strong> Here we're only updating the DOM if required, this also gives the sweet effect to the animation
 
 <div class="text-center">
-	<a target="_blank" class="btn btn-success" href="https://demo.uicard.io">See the Demo</a>
+	<a target="_blank" class="btn btn-success" href="https://demo.uicard.io/lets-count-to-9-in-javascript/">See the Demo</a>
 </div>
 
