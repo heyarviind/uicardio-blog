@@ -1,5 +1,5 @@
 ---
-title: "Counter in Javascript CSS"
+title: "Let's count to 9 using javascript and CSS"
 date: 2018-09-02T19:29:09+05:30
 draft: false
 author : "arvind"
