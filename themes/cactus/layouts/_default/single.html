@@ -1,63 +1,28 @@
 {{ partial "head.html" . }}
-    <body>
-      <div class="container">
+<body>
+    {{ partial "nav.html" . }}
+    <div class="container mt-4">
+            <h1 class="text-center heading">{{ .Title }}</h1>
+            <span class="text-center text-muted my-2 d-block">Posted on {{.Date.Format "Jan 2, 2006"}} By {{ humanize .Params.author }}</span>
+        </div>
+        
+        <img src="{{ .Site.BaseURL }}/images/{{ .Params.featured_image }}" class="mx-auto d-block my-4" style="max-width:100%;width:800px" alt="">
+        
+        <article style="max-width:890px" class="container w-100 my-5">
+            {{ .Content }}
+            {{ partial "share.html" . }}
+            {{ partial "disqus.html" . }}
+        </article>
+        <style>
+        article{
+            color: rgba(0,0,0,0.86);
+            font-size: 18px;
+        }
 
-       {{ partial "nav.html" . }}
-        <section>
-            <article>
-                <header>
-                    <h1>
-                        {{ .Title }}
-                    </h1>
-                    <span class="text-secondary">
-                        <div class="text-secondary mb-3 realign">By {{ $author := index .Site.Params.Author .Params.author }} {{ $author.fullname }} on {{ .Date.Format "2 January, 2006" }}</div>
-                    <!-- · {{ if lt 1 .WordCount }}{{ .WordCount }} words{{ else }}{{ .WordCount }} word{{ end }}
-                    · {{ .ReadingTime }} minute read -->
-                      <div class="tags">
-                      {{ with .Params.tags }}
-                      {{ if ge (len .) 1 }}
-                          {{ range . }}
-                              <a href="{{ $.Site.BaseURL }}tags/{{ . | urlize }}">{{ . }}</a>
-                          {{ end }}
-                      {{ end }}
-                      {{ end }}
-                    </div>
-                    </span>
-                </header>
-                {{ if isset .Params "featured_image" }}
-                    <img class="w-100" src="{{ .Site.BaseURL }}/images/{{ index .Params "featured_image" }}" alt="">
-                {{end}}
-                
-                {{ if .Site.Params.enableToc }}
-                  {{ if .TableOfContents }}
-                    <div id="toc">
-                      {{ .TableOfContents }}
-                    </div>
-                  {{ end }}
-                {{ end }}
-                <section>
-                    {{ .Content }}
-                </section>
-
-                {{ if .Site.Params.enableShare }}
-                    {{ partial "share.html" . }}
-                {{ end }}
-            </article>
-
-            
-
-            {{ if .Site.Params.enableDisqus }}
-                {{ partial "disqus.html" . }}
-            {{ end }}
-
-            {{ if .Site.Params.showLatestPosts }}
-                {{ partial "latest-posts.html" . }}
-            {{ end }}
-
-            {{ partial "footer.html" . }}
-        </section>
-
-        {{ partial "js.html" . }}
-      </div>
-    </body>
-</html>
+        article img{
+            max-width: 100%;
+            margin: 0 auto;
+        }
+        </style>
+    {{ partial "js.html" }}
+{{ partial "footer.html" }}
